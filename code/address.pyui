@@ -1,0 +1,242 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{65, 47}, {319, 32}}",
+        "class" : "TextField",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "placeholder" : "Appartment Number:",
+          "frame" : "{{412, 368}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "5AE73527-0DDD-4969-8901-6722E54908BE",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "name" : "apartment_textfield"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{65, 163.5}, {319, 32}}",
+        "class" : "TextField",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "placeholder" : "Street Address:",
+          "frame" : "{{412, 368}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "5AE73527-0DDD-4969-8901-6722E54908BE",
+          "alignment" : "left",
+          "text" : "",
+          "autocorrection_type" : "default",
+          "name" : "address_textfield",
+          "font_size" : 17
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{65, 290}, {319, 32}}",
+        "class" : "TextField",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "placeholder" : "City:",
+          "frame" : "{{412, 368}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "5AE73527-0DDD-4969-8901-6722E54908BE",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "city_textfield",
+          "font_size" : 17
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{65, 416.5}, {319, 32}}",
+        "class" : "TextField",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "placeholder" : "Province:",
+          "frame" : "{{412, 368}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "5AE73527-0DDD-4969-8901-6722E54908BE",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "province_textfield",
+          "font_size" : 17
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{65, 544}, {319, 32}}",
+        "class" : "TextField",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "placeholder" : "Postal Code:",
+          "frame" : "{{412, 368}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "5AE73527-0DDD-4969-8901-6722E54908BE",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "postal_code_textfield",
+          "font_size" : 17
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{569, 47}, {389, 600}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "E0406AF7-82B8-4F17-8E05-AE5AF7B67AA8",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "name" : "output_label"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{65, 87}, {313, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "98B2B744-1B0E-47EB-8F54-AD8B6CDB7BC8",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "name" : "apartment_label"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{65, 203.5}, {313, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "98B2B744-1B0E-47EB-8F54-AD8B6CDB7BC8",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "street_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{65, 330}, {313, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "98B2B744-1B0E-47EB-8F54-AD8B6CDB7BC8",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "city_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{65, 456.5}, {313, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "98B2B744-1B0E-47EB-8F54-AD8B6CDB7BC8",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "province_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{65, 584}, {313, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "98B2B744-1B0E-47EB-8F54-AD8B6CDB7BC8",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "postal_code_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{465, 330}, {80, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "post_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Post",
+          "uuid" : "2FF840F8-F6E4-4435-8600-FABA588C7B98",
+          "class" : "Button",
+          "name" : "post_button",
+          "font_size" : 15
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
